@@ -2,6 +2,8 @@
 
 In this module project you will build your very own calculator app. You have been provided with a file structure and suggested pattern for constructing your components. Be sure to connect all necessary files and pass the data using the techniques from the module.
 
+> You can watch the After Hours walkthrough for this project [here](https://lambdaschool.zoom.us/recording/share/SGlpRecvfDB30JXOdBESadV439s4WtiYzcdxAo4hpKuwIumekTziMw?startTime=1564257805000).
+
 ## Instructions
 
 ---
